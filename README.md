@@ -14,6 +14,8 @@ The name of this project is still TBD. Until a name is chosen, we'll use the nam
 * Apply syntax highlighting to the generated diffs.
 * Support popular version control systems.
 
+See the [Determine architecture issue](https://github.com/scottgonzalez/better-diff/issues/2) for more details.
+
 ## Contributing
 
 If you're interested in helping with the implementation, please leave a comment on the [Find Contributors issue](https://github.com/scottgonzalez/better-diff/issues/1) issue. This will likely require many contributors before we have a viable solution. No contribution is too small!
